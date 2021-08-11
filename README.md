@@ -1,23 +1,16 @@
 
-! ! ! 
-
-En cours de publication ....
-
-! ! !
-
-
 
 # Introduction
 
 Ce mini-projet vise à trouver les doublons dans les bases de données OpenFoodFacts.
 
 Ces bases au nombre de 4 sont les suivantes :
- - openfoodfacts - [site](https://fr.openfoodfacts.org)
- - openbeautyfacts - [site](https://fr.openbeautyfacts.org)
- - openproductsfacts - [site](https://fr.openproductsfacts.org)
- - openpetfoodfacts - [site](https://world.openpetfoodfacts.org)
+ - openfoodfacts - [site](https://fr.openfoodfacts.org) regroupant les produits alimentaires ;
+ - openbeautyfacts - [site](https://fr.openbeautyfacts.org) regroupant les produits cosmétiques ;
+ - openpetfoodfacts - [site](https://world.openpetfoodfacts.org) regroupant les produits alimentaires pour animaux ;
+ - openproductsfacts - [site](https://fr.openproductsfacts.org) regroupant tous les autres produits.
  
-Un fichier de type CSV est produit et qui liste tous les doublons trouvés. Ce fichier contient :
+Un fichier de type CSV est généré et liste tous les doublons trouvés. Ce fichier contient :
 - la base de données source ;
 - le code id du produit ;
 - le nom du produit ;
