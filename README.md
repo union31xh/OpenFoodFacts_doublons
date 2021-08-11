@@ -27,10 +27,11 @@ Pour déclarer l'accès aux bases MongoDB, il faut modifier le fichier **/src/ma
 # Execution
 La classe qui doit être executée est la suivante **"/src/main/java/OpenFoodsFacts/Doublon_recherche.java"** .
 
- # Langage / IDE
+# Langage / IDE
 Ce projet est developpé en JAVA avec l'IDE NetBeans. Le type de projet est "MAVEN", ce dernier permettra de charger automatiquement toutes les libraires nécesaires.
 
+# Au sujet de ... 
  
- 
+Ce bout de code propulsé par [SimplyStock](https://play.google.com/store/apps/details?id=union31xh.com.camera_api1_3) : une application Android pour gérer ses produits alimentaires !!!
 
 
