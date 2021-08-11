@@ -15,4 +15,5 @@ nb-configuration.xml
 *.war
 *.ear
 
-
+# fichiers résultats 
+resultat.csv
